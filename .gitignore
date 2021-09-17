@@ -1,0 +1,5 @@
+*.bat
+*.ps1
+venv
+.vscode
+.ipynb_checkpoints

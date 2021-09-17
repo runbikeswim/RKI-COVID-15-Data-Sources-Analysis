@@ -1,0 +1,1 @@
+# Compare COVID-19 Data Published by the Robert-Koch Institute (RKI)
