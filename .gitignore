@@ -1,5 +1,6 @@
 *.bat
 *.ps1
+*.pyc
 venv
 .vscode
 .ipynb_checkpoints
