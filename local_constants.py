@@ -65,8 +65,6 @@ RKI_ARCGIS_COLUMN_NAME_MAPPER = {"cases7_per_100k": "cases last 7 days per 100k"
                                  "KFL": "area",
 }
 
-RKI_ARCGIS_VALUE_CONVERTERS = {"last_update": lambda s: dt.datetime.strptime(s, "%d.%m.%Y, %H:%M Uhr")}
-
 # define constants for the URLs that give access to data
 
 RKI_GITHUB_REPOSITORY_URL = "https://github.com/robert-koch-institut/SARS-CoV-2_Infektionen_in_Deutschland"
