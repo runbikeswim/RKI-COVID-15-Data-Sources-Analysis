@@ -113,6 +113,18 @@ RKI_GITHUB_COLUMN_TYPES_MAPPER = {
     "is new recovered": "int8",
 }
 
+WHO_COLUMN_NAME_MAPPER = {
+    "Date_reported": "reporting date", 
+    "Country_code": "country code", 
+    "Country": "country", 
+    "WHO_region": "WHO region", 
+    "New_cases": "cases", 
+    "Cumulative_cases": "cumulative cases", 
+    "NeuGenesen": "is new recovered",
+    "New_deaths": "deaths", 
+    "Cumulative_deaths": "cumulative deaths"
+}
+
 
 if __name__ == "__main__":
     pass
