@@ -1,5 +1,8 @@
 datetime
+humanize
 numpy
 pandas
 jupyter
 notebook
+plotly
+kaleido
